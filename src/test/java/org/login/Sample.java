@@ -7,5 +7,12 @@ System.out.println("first");
 private void m2() {
 System.out.println("second");
 }
+private void m3() {
+	System.out.println("three");
+
+}
+private void m4() {
+System.out.println("four");
+}
 	
 }
